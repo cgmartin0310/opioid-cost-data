@@ -1,0 +1,158 @@
+{
+  "Hawaii": {
+    "baselinePerCapitaCost": 1204,
+    "baselineTotalCost": 1718.10
+  },
+  "Minnesota": {
+    "baselinePerCapitaCost": 1509,
+    "baselineTotalCost": 8412.80
+  },
+  "California": {
+    "baselinePerCapitaCost": 1566,
+    "baselineTotalCost": 61895.50
+  },
+  "Wyoming": {
+    "baselinePerCapitaCost": 1701,
+    "baselineTotalCost": 985.20
+  },
+  "Texas": {
+    "baselinePerCapitaCost": 1736,
+    "baselineTotalCost": 49135.10
+  },
+  "Iowa": {
+    "baselinePerCapitaCost": 1952,
+    "baselineTotalCost": 6139.60
+  },
+  "Georgia": {
+    "baselinePerCapitaCost": 1992,
+    "baselineTotalCost": 20779.80
+  },
+  "Mississippi": {
+    "baselinePerCapitaCost": 2199,
+    "baselineTotalCost": 6560.80
+  },
+  "Colorado": {
+    "baselinePerCapitaCost": 2571,
+    "baselineTotalCost": 14417.50
+  },
+  "Oklahoma": {
+    "baselinePerCapitaCost": 2603,
+    "baselineTotalCost": 10232.40
+  },
+  "Oregon": {
+    "baselinePerCapitaCost": 2935,
+    "baselineTotalCost": 12157.70
+  },
+  "New York": {
+    "baselinePerCapitaCost": 3024,
+    "baselineTotalCost": 60016.70
+  },
+  "Missouri": {
+    "baselinePerCapitaCost": 3029,
+    "baselineTotalCost": 18515.30
+  },
+  "Arizona": {
+    "baselinePerCapitaCost": 3104,
+    "baselineTotalCost": 21777.60
+  },
+  "New Mexico": {
+    "baselinePerCapitaCost": 3107,
+    "baselineTotalCost": 6488.60
+  },
+  "Washington": {
+    "baselinePerCapitaCost": 3188,
+    "baselineTotalCost": 23611.60
+  },
+  "Wisconsin": {
+    "baselinePerCapitaCost": 3219,
+    "baselineTotalCost": 18657.40
+  },
+  "Illinois": {
+    "baselinePerCapitaCost": 3248,
+    "baselineTotalCost": 41578.00
+  },
+  "Florida": {
+    "baselinePerCapitaCost": 3262,
+    "baselineTotalCost": 68444.30
+  },
+  "Virginia": {
+    "baselinePerCapitaCost": 3337,
+    "baselineTotalCost": 28268.00
+  },
+  "South Carolina": {
+    "baselinePerCapitaCost": 3351,
+    "baselineTotalCost": 16834.60
+  },
+  "Alaska": {
+    "baselinePerCapitaCost": 3386,
+    "baselineTotalCost": 2505.20
+  },
+  "Tennessee": {
+    "baselinePerCapitaCost": 3631,
+    "baselineTotalCost": 24388.20
+  },
+  "North Carolina": {
+    "baselinePerCapitaCost": 3832,
+    "baselineTotalCost": 39366.10
+  },
+  "Utah": {
+    "baselinePerCapitaCost": 3837,
+    "baselineTotalCost": 11902.50
+  },
+  "Vermont": {
+    "baselinePerCapitaCost": 3884,
+    "baselineTotalCost": 2422.60
+  },
+  "Indiana": {
+    "baselinePerCapitaCost": 3895,
+    "baselineTotalCost": 25968.90
+  },
+  "Nevada": {
+    "baselinePerCapitaCost": 4096,
+    "baselineTotalCost": 12279.30
+  },
+  "Michigan": {
+    "baselinePerCapitaCost": 4155,
+    "baselineTotalCost": 41396.10
+  },
+  "Rhode Island": {
+    "baselinePerCapitaCost": 4271,
+    "baselineTotalCost": 4526.10
+  },
+  "District of Columbia": {
+    "baselinePerCapitaCost": 4698,
+    "baselineTotalCost": 3260.20
+  },
+  "Connecticut": {
+    "baselinePerCapitaCost": 4800,
+    "baselineTotalCost": 17222.60
+  },
+  "Maryland": {
+    "baselinePerCapitaCost": 4884,
+    "baselineTotalCost": 29559.60
+  },
+  "Maine": {
+    "baselinePerCapitaCost": 5099,
+    "baselineTotalCost": 6812.00
+  },
+  "Massachusetts": {
+    "baselinePerCapitaCost": 5381,
+    "baselineTotalCost": 36913.20
+  },
+  "Kentucky": {
+    "baselinePerCapitaCost": 5491,
+    "baselineTotalCost": 24456.80
+  },
+  "New Hampshire": {
+    "baselinePerCapitaCost": 5953,
+    "baselineTotalCost": 7993.50
+  },
+  "Ohio": {
+    "baselinePerCapitaCost": 6226,
+    "baselineTotalCost": 72582.90
+  },
+  "West Virginia": {
+    "baselinePerCapitaCost": 7247,
+    "baselineTotalCost": 13159.10
+  }
+}
