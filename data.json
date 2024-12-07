@@ -1,158 +1,308 @@
 {
-  "Hawaii": {
-    "baselinePerCapitaCost": 1204,
-    "baselineTotalCost": 1718.10
-  },
-  "Minnesota": {
-    "baselinePerCapitaCost": 1509,
-    "baselineTotalCost": 8412.80
-  },
-  "California": {
-    "baselinePerCapitaCost": 1566,
-    "baselineTotalCost": 61895.50
-  },
-  "Wyoming": {
-    "baselinePerCapitaCost": 1701,
-    "baselineTotalCost": 985.20
-  },
-  "Texas": {
-    "baselinePerCapitaCost": 1736,
-    "baselineTotalCost": 49135.10
-  },
-  "Iowa": {
-    "baselinePerCapitaCost": 1952,
-    "baselineTotalCost": 6139.60
-  },
-  "Georgia": {
-    "baselinePerCapitaCost": 1992,
-    "baselineTotalCost": 20779.80
-  },
-  "Mississippi": {
-    "baselinePerCapitaCost": 2199,
-    "baselineTotalCost": 6560.80
-  },
-  "Colorado": {
-    "baselinePerCapitaCost": 2571,
-    "baselineTotalCost": 14417.50
-  },
-  "Oklahoma": {
-    "baselinePerCapitaCost": 2603,
-    "baselineTotalCost": 10232.40
-  },
-  "Oregon": {
-    "baselinePerCapitaCost": 2935,
-    "baselineTotalCost": 12157.70
-  },
-  "New York": {
-    "baselinePerCapitaCost": 3024,
-    "baselineTotalCost": 60016.70
-  },
-  "Missouri": {
-    "baselinePerCapitaCost": 3029,
-    "baselineTotalCost": 18515.30
-  },
-  "Arizona": {
-    "baselinePerCapitaCost": 3104,
-    "baselineTotalCost": 21777.60
-  },
-  "New Mexico": {
-    "baselinePerCapitaCost": 3107,
-    "baselineTotalCost": 6488.60
-  },
-  "Washington": {
-    "baselinePerCapitaCost": 3188,
-    "baselineTotalCost": 23611.60
-  },
-  "Wisconsin": {
-    "baselinePerCapitaCost": 3219,
-    "baselineTotalCost": 18657.40
-  },
-  "Illinois": {
-    "baselinePerCapitaCost": 3248,
-    "baselineTotalCost": 41578.00
-  },
-  "Florida": {
-    "baselinePerCapitaCost": 3262,
-    "baselineTotalCost": 68444.30
-  },
-  "Virginia": {
-    "baselinePerCapitaCost": 3337,
-    "baselineTotalCost": 28268.00
-  },
-  "South Carolina": {
-    "baselinePerCapitaCost": 3351,
-    "baselineTotalCost": 16834.60
+  "Alabama": {
+    "baselinePerCapitaCost": 3597,
+    "baselineTotalCost": 12345.67,
+    "odDeaths": 1097,
+    "carAccidentDeaths": 988
   },
   "Alaska": {
     "baselinePerCapitaCost": 3386,
-    "baselineTotalCost": 2505.20
+    "baselineTotalCost": 2505.20,
+    "odDeaths": 188,
+    "carAccidentDeaths": 82
   },
-  "Tennessee": {
-    "baselinePerCapitaCost": 3631,
-    "baselineTotalCost": 24388.20
+  "Arizona": {
+    "baselinePerCapitaCost": 3104,
+    "baselineTotalCost": 21777.60,
+    "odDeaths": 1930,
+    "carAccidentDeaths": 1302
   },
-  "North Carolina": {
-    "baselinePerCapitaCost": 3832,
-    "baselineTotalCost": 39366.10
+  "Arkansas": {
+    "baselinePerCapitaCost": 1701,
+    "baselineTotalCost": 985.20,
+    "odDeaths": 388,
+    "carAccidentDeaths": 643
   },
-  "Utah": {
-    "baselinePerCapitaCost": 3837,
-    "baselineTotalCost": 11902.50
+  "California": {
+    "baselinePerCapitaCost": 1566,
+    "baselineTotalCost": 61895.50,
+    "odDeaths": 7347,
+    "carAccidentDeaths": 4428
   },
-  "Vermont": {
-    "baselinePerCapitaCost": 3884,
-    "baselineTotalCost": 2422.60
-  },
-  "Indiana": {
-    "baselinePerCapitaCost": 3895,
-    "baselineTotalCost": 25968.90
-  },
-  "Nevada": {
-    "baselinePerCapitaCost": 4096,
-    "baselineTotalCost": 12279.30
-  },
-  "Michigan": {
-    "baselinePerCapitaCost": 4155,
-    "baselineTotalCost": 41396.10
-  },
-  "Rhode Island": {
-    "baselinePerCapitaCost": 4271,
-    "baselineTotalCost": 4526.10
-  },
-  "District of Columbia": {
-    "baselinePerCapitaCost": 4698,
-    "baselineTotalCost": 3260.20
+  "Colorado": {
+    "baselinePerCapitaCost": 2571,
+    "baselineTotalCost": 14417.50,
+    "odDeaths": 1177,
+    "carAccidentDeaths": 764
   },
   "Connecticut": {
     "baselinePerCapitaCost": 4800,
-    "baselineTotalCost": 17222.60
+    "baselineTotalCost": 17222.60,
+    "odDeaths": 1349,
+    "carAccidentDeaths": 359
   },
-  "Maryland": {
-    "baselinePerCapitaCost": 4884,
-    "baselineTotalCost": 29559.60
+  "Delaware": {
+    "baselinePerCapitaCost": 4271,
+    "baselineTotalCost": 4526.10,
+    "odDeaths": 490,
+    "carAccidentDeaths": 162
   },
-  "Maine": {
-    "baselinePerCapitaCost": 5099,
-    "baselineTotalCost": 6812.00
+  "District of Columbia": {
+    "baselinePerCapitaCost": 4698,
+    "baselineTotalCost": 3260.20,
+    "odDeaths": 345,
+    "carAccidentDeaths": 32
   },
-  "Massachusetts": {
-    "baselinePerCapitaCost": 5381,
-    "baselineTotalCost": 36913.20
+  "Florida": {
+    "baselinePerCapitaCost": 3262,
+    "baselineTotalCost": 68444.30,
+    "odDeaths": 5581,
+    "carAccidentDeaths": 3530
+  },
+  "Georgia": {
+    "baselinePerCapitaCost": 1992,
+    "baselineTotalCost": 20779.80,
+    "odDeaths": 1983,
+    "carAccidentDeaths": 1797
+  },
+  "Hawaii": {
+    "baselinePerCapitaCost": 1204,
+    "baselineTotalCost": 1718.10,
+    "odDeaths": 103,
+    "carAccidentDeaths": 116
+  },
+  "Idaho": {
+    "baselinePerCapitaCost": 2935,
+    "baselineTotalCost": 12157.70,
+    "odDeaths": 270,
+    "carAccidentDeaths": 215
+  },
+  "Illinois": {
+    "baselinePerCapitaCost": 3248,
+    "baselineTotalCost": 41578.00,
+    "odDeaths": 3189,
+    "carAccidentDeaths": 1268
+  },
+  "Indiana": {
+    "baselinePerCapitaCost": 3895,
+    "baselineTotalCost": 25968.90,
+    "odDeaths": 2072,
+    "carAccidentDeaths": 949
+  },
+  "Iowa": {
+    "baselinePerCapitaCost": 1952,
+    "baselineTotalCost": 6139.60,
+    "odDeaths": 236,
+    "carAccidentDeaths": 338
+  },
+  "Kansas": {
+    "baselinePerCapitaCost": 1837,
+    "baselineTotalCost": 5000.00,
+    "odDeaths": 506,
+    "carAccidentDeaths": 410
   },
   "Kentucky": {
     "baselinePerCapitaCost": 5491,
-    "baselineTotalCost": 24456.80
+    "baselineTotalCost": 24456.80,
+    "odDeaths": 1767,
+    "carAccidentDeaths": 744
+  },
+  "Louisiana": {
+    "baselinePerCapitaCost": 4000,
+    "baselineTotalCost": 14000.00,
+    "odDeaths": 1367,
+    "carAccidentDeaths": 906
+  },
+  "Maine": {
+    "baselinePerCapitaCost": 5099,
+    "baselineTotalCost": 6812.00,
+    "odDeaths": 619,
+    "carAccidentDeaths": 182
+  },
+  "Maryland": {
+    "baselinePerCapitaCost": 4884,
+    "baselineTotalCost": 29559.60,
+    "odDeaths": 2247,
+    "carAccidentDeaths": 564
+  },
+  "Massachusetts": {
+    "baselinePerCapitaCost": 5381,
+    "baselineTotalCost": 36913.20,
+    "odDeaths": 2326,
+    "carAccidentDeaths": 434
+  },
+  "Michigan": {
+    "baselinePerCapitaCost": 4155,
+    "baselineTotalCost": 41396.10,
+    "odDeaths": 2418,
+    "carAccidentDeaths": 1124
+  },
+  "Minnesota": {
+    "baselinePerCapitaCost": 1509,
+    "baselineTotalCost": 8412.80,
+    "odDeaths": 1031,
+    "carAccidentDeaths": 444
+  },
+  "Mississippi": {
+    "baselinePerCapitaCost": 2199,
+    "baselineTotalCost": 6560.80,
+    "odDeaths": 543,
+    "carAccidentDeaths": 703
+  },
+  "Missouri": {
+    "baselinePerCapitaCost": 3029,
+    "baselineTotalCost": 18515.30,
+    "odDeaths": 1586,
+    "carAccidentDeaths": 1057
+  },
+  "Montana": {
+    "baselinePerCapitaCost": 2500,
+    "baselineTotalCost": 9000.00,
+    "odDeaths": 130,
+    "carAccidentDeaths": 213
+  },
+  "Nebraska": {
+    "baselinePerCapitaCost": 2000,
+    "baselineTotalCost": 7000.00,
+    "odDeaths": 122,
+    "carAccidentDeaths": 244
+  },
+  "Nevada": {
+    "baselinePerCapitaCost": 4096,
+    "baselineTotalCost": 12279.30,
+    "odDeaths": 639,
+    "carAccidentDeaths": 416
   },
   "New Hampshire": {
     "baselinePerCapitaCost": 5953,
-    "baselineTotalCost": 7993.50
+    "baselineTotalCost": 7993.50,
+    "odDeaths": 431,
+    "carAccidentDeaths": 146
+  },
+  "New Jersey": {
+    "baselinePerCapitaCost": 4800,
+    "baselineTotalCost": 17222.60,
+    "odDeaths": 2637,
+    "carAccidentDeaths": 685
+  },
+  "New Mexico": {
+    "baselinePerCapitaCost": 3107,
+    "baselineTotalCost": 6488.60,
+    "odDeaths": 733,
+    "carAccidentDeaths": 466
+  },
+  "New York": {
+    "baselinePerCapitaCost": 3024,
+    "baselineTotalCost": 60016.70,
+    "odDeaths": 5361,
+    "carAccidentDeaths": 1175
+  },
+  "North Carolina": {
+    "baselinePerCapitaCost": 3832,
+    "baselineTotalCost": 39366.10,
+    "odDeaths": 3639,
+    "carAccidentDeaths": 1630
+  },
+  "North Dakota": {
+    "baselinePerCapitaCost": 2200,
+    "baselineTotalCost": 8000.00,
+    "odDeaths": 97,
+    "carAccidentDeaths": 98
   },
   "Ohio": {
     "baselinePerCapitaCost": 6226,
-    "baselineTotalCost": 72582.90
+    "baselineTotalCost": 72582.90,
+    "odDeaths": 4230,
+    "carAccidentDeaths": 1275
+  },
+  "Oklahoma": {
+    "baselinePerCapitaCost": 2603,
+    "baselineTotalCost": 10232.40,
+    "odDeaths": 761,
+    "carAccidentDeaths": 710
+  },
+  "Oregon": {
+    "baselinePerCapitaCost": 2935,
+    "baselineTotalCost": 12157.70,
+    "odDeaths": 968,
+    "carAccidentDeaths": 601
+  },
+  "Pennsylvania": {
+    "baselinePerCapitaCost": 3700,
+    "baselineTotalCost": 20000.00,
+    "odDeaths": 3960,
+    "carAccidentDeaths": 1179
+  },
+  "Rhode Island": {
+    "baselinePerCapitaCost": 4271,
+    "baselineTotalCost": 4526.10,
+    "odDeaths": 333,
+    "carAccidentDeaths": 52
+  },
+  "South Carolina": {
+    "baselinePerCapitaCost": 3351,
+    "baselineTotalCost": 16834.60,
+    "odDeaths": 1831,
+    "carAccidentDeaths": 1094
+  },
+  "South Dakota": {
+    "baselinePerCapitaCost": 2000,
+    "baselineTotalCost": 6000.00,
+    "odDeaths": 46,
+    "carAccidentDeaths": 137
+  },
+  "Tennessee": {
+    "baselinePerCapitaCost": 3631,
+    "baselineTotalCost": 24388.20,
+    "odDeaths": 3062,
+    "carAccidentDeaths": 1314
+  },
+  "Texas": {
+    "baselinePerCapitaCost": 1736,
+    "baselineTotalCost": 49135.10,
+    "odDeaths": 3172,
+    "carAccidentDeaths": 4408
+  },
+  "Utah": {
+    "baselinePerCapitaCost": 3837,
+    "baselineTotalCost": 11902.50,
+    "odDeaths": 427,
+    "carAccidentDeaths": 319
+  },
+  "Vermont": {
+    "baselinePerCapitaCost": 3884,
+    "baselineTotalCost": 2422.60,
+    "odDeaths": 239,
+    "carAccidentDeaths": 76
+  },
+  "Virginia": {
+    "baselinePerCapitaCost": 3337,
+    "baselineTotalCost": 28268.00,
+    "odDeaths": 2108,
+    "carAccidentDeaths": 1008
+  },
+  "Washington": {
+    "baselinePerCapitaCost": 3188,
+    "baselineTotalCost": 23611.60,
+    "odDeaths": 2063,
+    "carAccidentDeaths": 733
   },
   "West Virginia": {
     "baselinePerCapitaCost": 7247,
-    "baselineTotalCost": 13159.10
+    "baselineTotalCost": 13159.10,
+    "odDeaths": 1146,
+    "carAccidentDeaths": 264
+  },
+  "Wisconsin": {
+    "baselinePerCapitaCost": 3219,
+    "baselineTotalCost": 18657.40,
+    "odDeaths": 1433,
+    "carAccidentDeaths": 596
+  },
+  "Wyoming": {
+    "baselinePerCapitaCost": 1701,
+    "baselineTotalCost": 985.20,
+    "odDeaths": 83,
+    "carAccidentDeaths": 134
   }
 }
